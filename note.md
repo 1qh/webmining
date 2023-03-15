@@ -70,7 +70,7 @@
     - Sử dụng tập quan hệ gốc để mở rộng quá trình trích rút
     - Sử dụng cơ chế lặp để để mở rộng quá trình trích rút
     - Các mẫu trích rút được đánh giá mức độ tin cậy
-    - ***Xây dựng bộ phân loại dựa trên đặc trưng để trích rút ***
+    - ***Xây dựng bộ phân loại dựa trên đặc trưng để trích rút***
 
 - Trong bài toán NER, giả sử có 4 loại thực thể {PER, ORG, LOC, TIME} và sử dụng cơ chế BIEO thì số lớp đầu ra là 13
 
